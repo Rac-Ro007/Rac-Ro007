@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Viewer 👋
 
 <!--
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,19 +12,19 @@ I work with all technologies below and always excited to explore new technologie
 
 <p float="left">
    <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/python.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/python.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/java.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/java.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/c.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/c.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/javascript.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/javascript.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/html-css-js.png" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
  </p>
   <!--<a href="https://golang.org/" target="_blank" >
@@ -54,25 +54,25 @@ I work with all technologies below and always excited to explore new technologie
 
 <p float="left">
    <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/django.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/django.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/react.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/react.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/node-js.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/node-js.svg" height="70" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/php.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/php.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/blockchain.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/blockchain.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/ethereum.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/ethereum.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/linux.svg" height="70" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/linux.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
  </p>
   
