@@ -2,17 +2,13 @@
 
 <!--
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+### Hi there 👋 -->
 
-<!--
-**itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-I am [Ronak](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast and Creative Developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
+I am [Ronak](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
 
 I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
-
+<!--
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
@@ -35,6 +31,7 @@ I work with all technologies below and always excited to explore new technologie
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
+-->
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
