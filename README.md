@@ -4,13 +4,13 @@
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋 -->
 
-I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
+I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer / Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
 
 ![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&hide=issues&show_icons=true&theme=onedark)
 
 I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
-### Languages
+### Languages & Skills
 
 <p float="left">
    <a href="" target="_blank" >
@@ -27,6 +27,15 @@ I work with all technologies below and always excited to explore new technologie
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/html-css-js.png" height="60" />&nbsp;&nbsp;&nbsp;
+  </a>
+   <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/cicd.gif"  height="65" />
   </a>
  </p>
   <!--<a href="https://golang.org/" target="_blank" >
@@ -118,8 +127,8 @@ I work with all technologies below and always excited to explore new technologie
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻 <br>
-  <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> 
-  ⦿ Visit my [Website](https://www..com) 🌐 <br> -->
+  <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
+  ⦿ Visit my [Website](https://rac-ro007.github.io) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:ronakvadhaiya77@gmail.com) 💌 <br>
 
 
