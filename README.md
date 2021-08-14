@@ -6,6 +6,8 @@
 
 I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
 
+![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&hide=issues&show_icons=true&theme=onedark)
+
 I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
 ### Languages
