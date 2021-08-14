@@ -126,7 +126,7 @@ I work with all technologies below and always excited to explore new technologie
 
 ### 📫 How to reach me? 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻
   <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
   ⦿ Visit my [Website](https://rac-ro007.github.io) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:ronakvadhaiya77@gmail.com) 💌 <br>
