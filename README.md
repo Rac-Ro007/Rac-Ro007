@@ -16,6 +16,15 @@ I work with all technologies below and always excited to explore new technologie
    <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/python.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/cicd.gif"  height="65" />
+  </a>
   <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/java.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
@@ -27,15 +36,6 @@ I work with all technologies below and always excited to explore new technologie
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/html-css-js.png" height="60" />&nbsp;&nbsp;&nbsp;
-  </a>
-   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/cicd.gif"  height="65" />
   </a>
  </p>
   <!--<a href="https://golang.org/" target="_blank" >
@@ -87,14 +87,14 @@ I work with all technologies below and always excited to explore new technologie
   </a>
  </p>
   
-### CSPs
+### CSPs / Cloud Service Providers
   
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/aws-2.gif"  height="75" />
   </a>
  </p>
 
