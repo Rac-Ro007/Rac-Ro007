@@ -6,7 +6,7 @@
 
 I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer / Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
 
-![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&hide=issues&show_icons=true&theme=onedark)
+![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&show_icons=true&theme=algolia)
 
 I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
@@ -127,8 +127,7 @@ I work with all technologies below and always excited to explore new technologie
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻
-  <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
   ⦿ Visit my [Website](https://rac-ro007.github.io) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:ronakvadhaiya77@gmail.com) 💌 <br>
-
+  <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
 
