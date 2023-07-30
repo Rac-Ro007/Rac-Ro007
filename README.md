@@ -20,17 +20,22 @@ I work with all technologies below and always excited to explore new technologie
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,html,css,solidity" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,redis,aws,digitalocean" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,php" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,firebase,vercel,mysql,mongodb,postgres,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,redis,aws,graphql,dotnet" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,heroku,firebase,vercel,linux, photoshop,ai" />
   </a>
 </p>
 
@@ -87,13 +92,9 @@ I work with all technologies below and always excited to explore new technologie
   </a>
 -->
 
-### Frameworks and Other Tech's
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,graphql,php" />
-  </a>
-</p>
-<!-- <p float="left">
+<!-- ### Frameworks and Other Tech's
+
+<p float="left">
    <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/django.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
@@ -115,7 +116,7 @@ I work with all technologies below and always excited to explore new technologie
   <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/linux.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
- </p> -->
+ </p>
   
 ### CSPs / Cloud Service Providers
   
@@ -126,7 +127,7 @@ I work with all technologies below and always excited to explore new technologie
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/aws-2.gif"  height="75" />
   </a>
- </p>
+ </p> -->
 
 <!--
 ### Monitoring
@@ -143,7 +144,7 @@ I work with all technologies below and always excited to explore new technologie
   </a>
 </p> -->
 
-### Databases
+<!-- ### Databases
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
@@ -152,7 +153,7 @@ I work with all technologies below and always excited to explore new technologie
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/mongo.gif" height="80" />
   </a>
-</p>
+</p> -->
 
 ## 📫 How to reach me? 
 
