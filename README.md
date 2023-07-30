@@ -20,22 +20,22 @@ I work with all technologies below and always excited to explore new technologie
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,html,css,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,solidity" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,php" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,html,css,bootstrap,materialui," />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,redis,aws,graphql,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,redis,aws,graphql,php,dotnet" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,heroku,firebase,vercel,linux, photoshop,ai" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,heroku,firebase,vercel,linux,photoshop,ai" />
   </a>
 </p>
 
