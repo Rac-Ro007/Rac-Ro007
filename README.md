@@ -1,10 +1,14 @@
-### Hello Viewer 👋
+<img src="https://komarev.com/ghpvc/?username=Rac-Ro007&label=PROFILE%20VIEWS&color=164B60&style=plastic" alt="Ronak-Vadhaiya" />
+
+<img src="https://github.com/NIKU-SINGH/NIKU-SINGH/blob/main/assets/banner.png" />
+
+### Hey, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am [Ronak Vadhaiya] (https://www.linkedin.com/in/ronakvadhaiya/)
 
 <!--
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋 -->
 
-I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/), a Passionate, Tech Enthusiast, FreeLancer and Creative Developer / Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
+A Passionate Tech Enthusiast, FreeLancer and Creative Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in development space🎯
 
 ![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&show_icons=true&theme=algolia)
 
@@ -124,10 +128,14 @@ I work with all technologies below and always excited to explore new technologie
   </a>
 </p>
 
-### 📫 How to reach me? 
+## 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻
   ⦿ Visit my [Website](https://rac-ro007.github.io) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:ronakvadhaiya77@gmail.com) 💌 <br>
+  ## Connect with me
+
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin-color.svg" />](https://www.linkedin.com/in/ronakvadhaiya)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail-color.svg" />](mailto:ronakvadhaiya77@gmail.com)
   <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
 
