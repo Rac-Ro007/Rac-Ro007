@@ -19,14 +19,8 @@ I work with all technologies below and always excited to explore new technologie
 ## Languages and tools that I use
 
 <p align="center">
-  <h5ß>Languages</h5>
   <a href="">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,solidity" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,graphql,php" />
   </a>
 </p>
 <p align="center">
@@ -94,8 +88,12 @@ I work with all technologies below and always excited to explore new technologie
 -->
 
 ### Frameworks and Other Tech's
-
-<p float="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,graphql,php" />
+  </a>
+</p>
+<!-- <p float="left">
    <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/django.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
@@ -117,7 +115,7 @@ I work with all technologies below and always excited to explore new technologie
   <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/Rac-Ro007/Rac-Ro007/master/assets/linux.svg" height="60" />&nbsp;&nbsp;&nbsp;
   </a>
- </p>
+ </p> -->
   
 ### CSPs / Cloud Service Providers
   
