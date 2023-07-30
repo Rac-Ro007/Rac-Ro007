@@ -19,6 +19,7 @@ I work with all technologies below and always excited to explore new technologie
 ## Languages and tools that I use
 
 <p align="center">
+  <h5ß>Languages</h5>
   <a href="">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,solidity" />
   </a>
