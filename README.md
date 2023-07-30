@@ -20,12 +20,12 @@ I work with all technologies below and always excited to explore new technologie
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,html,solidity" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,html,css,bootstrap,materialui," />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,css,bootstrap,materialui,flutter" />
   </a>
 </p>
 <p align="center">
