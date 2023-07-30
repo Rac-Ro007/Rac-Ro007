@@ -2,7 +2,9 @@
 
 <img src="https://github.com/NIKU-SINGH/NIKU-SINGH/blob/main/assets/banner.png" />
 
-### Hey, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am [Ronak Vadhaiya] (https://www.linkedin.com/in/ronakvadhaiya/)
+### Hey, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+
+I am [Ronak Vadhaiya] (https://www.linkedin.com/in/ronakvadhaiya/)  
 
 <!--
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,31 @@ A Passionate Tech Enthusiast, FreeLancer and Creative Engineer from [🇮🇳 ](
 
 I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
+## Languages and tools that I use
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,solidity" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,express,flask,bootstrap,materialui,graphql,php" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,redis,aws,digitalocean" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,firebase,vercel,mysql,mongodb,postgres,linux" />
+  </a>
+</p>
+
+---
+<!--
 ### Languages & Skills
 
 <p float="left">
