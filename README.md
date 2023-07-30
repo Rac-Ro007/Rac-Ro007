@@ -4,7 +4,7 @@
 
 ### Hey, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
 
-I am [Ronak Vadhaiya] (https://www.linkedin.com/in/ronakvadhaiya/)  
+I am [Ronak Vadhaiya](https://www.linkedin.com/in/ronakvadhaiya/)  
 
 <!--
 **Rac-Ro007/Rac-Ro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ A Passionate Tech Enthusiast, FreeLancer and Creative Engineer from [🇮🇳 ](
 
 ![Rac-Ro007's github stats](https://github-readme-stats.vercel.app/api?username=Rac-Ro007&show_icons=true&theme=algolia)
 
-I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
+---
 
 ## Languages and tools that I use
+
+I work with all technologies below and always excited to explore new technologies and getting familiar with them is what I love.☁️🚀
 
 <p align="center">
   <a href="">
