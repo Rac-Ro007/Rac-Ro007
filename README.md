@@ -159,12 +159,10 @@ I work with all technologies below and always excited to explore new technologie
 
 ## 📫 How to reach me? 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ronakvadhaiya/) 👨🏻‍💻 <br>
   ⦿ Visit my [Website](https://rac-ro007.github.io) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:ronakvadhaiya77@gmail.com) 💌 <br>
-  ## Connect with me
 
-[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin-color.svg" />](https://www.linkedin.com/in/ronakvadhaiya)
-[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail-color.svg" />](mailto:ronakvadhaiya77@gmail.com)
-  <!--⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br> -->
+<!-- [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin-color.svg" />](https://www.linkedin.com/in/ronakvadhaiya)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail-color.svg" />](mailto:ronakvadhaiya77@gmail.com) -->
 
